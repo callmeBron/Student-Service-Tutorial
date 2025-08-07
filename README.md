@@ -4,7 +4,7 @@ This is part of my upskilling of Spring boot.
 
 ### GET
 **i.e http://localhost:8080/api/v1/students**
- <img width="500" height="312" alt="Screenshot 2025-08-07 at 14 24 04" src="https://github.com/user-attachments/assets/c5295e8e-b0a0-4139-8194-076d7c829f12" />
+<img width="500" height="312" alt="Screenshot 2025-08-07 at 14 24 04" src="https://github.com/user-attachments/assets/c5295e8e-b0a0-4139-8194-076d7c829f12" />
 
 ### PUT
 **i.e http://localhost:8080/api/v1/students/1?name={value}&email={value}**
